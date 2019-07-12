@@ -1,6 +1,6 @@
 # Selenium WebDriver
 
-English:
+# English:
 
 Challenge used in Google selective process.
 
@@ -26,7 +26,7 @@ Desafio Selenium Web
 
 
 
-Spanish:
+# Spanish:
 
 Desafío utilizado en el proceso selectivo de Google.
 
@@ -39,10 +39,8 @@ Selenium Web Challenge
 
 
 
-French:
+# French:
 
-
-339/5000
 Défi utilisé dans le processus sélectif de Google.
 
 Sélénium Web Challenge
