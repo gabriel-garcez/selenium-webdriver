@@ -1,7 +1,5 @@
 # Selenium WebDriver
 
-# English:
-
 Challenge used in Google selection process.
 
 Selenium Web Challenge
