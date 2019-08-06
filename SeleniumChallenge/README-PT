@@ -1,0 +1,6 @@
+Desafio Selenium Web
+
+1 - Realizar uma pesquisa no site da OLX e imprimir SOMENTE titulo e valor dos CINCO primeiros resultados.
+2 - Realizar uma pesquisa no site da OLX que contenha paginação, tirar um print do PRIMEIRO anuncio da segunda pagina.
+
+(Utilizar Page Objects será um diferencial)

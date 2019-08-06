@@ -1,0 +1,6 @@
+Challenge Selenium Web
+
+1 - Do a search in OLX Site and print ONLY the title and the value of the first five results.
+2 - Do a search in OLX Site that contain pagination, take a print from the FIRST announcement of the second page.
+
+(Use Page Objects is required)
