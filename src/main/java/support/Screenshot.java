@@ -17,7 +17,7 @@ public class Screenshot {
 	public static void take(WebDriver driver, String file) throws IOException {
 
 
-		    WebElement ele = driver.findElement(By.xpath("//div[@class='section_OLXad-list ']//li"));   
+		    WebElement ele = driver.findElement(By.xpath("//*[@class='sc-1fcmfeb-2 ggOGTJ']"));   
 		    File screenshot = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 		    BufferedImage  fullImg = ImageIO.read(screenshot);
 		    Point point = ele.getLocation();

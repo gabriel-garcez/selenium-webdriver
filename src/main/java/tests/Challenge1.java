@@ -1,12 +1,13 @@
 package tests;
 
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import pages.MainPage;
 import pages.ResultPage;
 import pages.SaoPauloPage;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
 
 public class Challenge1 {
 	private WebDriver driver;
